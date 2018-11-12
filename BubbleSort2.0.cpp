@@ -1,6 +1,3 @@
-//
-// Created by kayann on 10/11/2018.
-//
 #include <iostream>
 #include <conio.h>
 
