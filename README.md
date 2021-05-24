@@ -6,4 +6,4 @@
 * [Selection Sort](https://github.com/Kayannsoarez/Data-Structure/blob/master/Ordenar/SelectionSort.cpp)
 * [Merge Sort](https://github.com/Kayannsoarez/Data-Structure/blob/master/Ordenar/MergeSort.cpp)
 * [Quick  Sort]
-* [Heap Sort]
+* [Heap Sort](https://github.com/Kayannsoarez/Data-Structure/blob/master/Ordenar/HeapSort.cpp)
