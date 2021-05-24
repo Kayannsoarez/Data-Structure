@@ -5,3 +5,5 @@
 * [Insertion Sort](https://github.com/Kayannsoarez/Data-Structure/blob/master/Ordenar/InsertionSort.cpp)
 * [Selection Sort](https://github.com/Kayannsoarez/Data-Structure/blob/master/Ordenar/SelectionSort.cpp)
 * [Merge Sort](https://github.com/Kayannsoarez/Data-Structure/blob/master/Ordenar/MergeSort.cpp)
+* [Quick  Sort]
+* [Heap Sort]
